@@ -13,8 +13,8 @@ This project implements a Convolutional Neural Network (CNN) model to accurately
 **Setup and Installation**
 
 - Clone the Repository
-`git clone https://github.com/yourusername/gender-detection.git
-cd gender-detection`
+`git clone https://github.com/yourusername/gender-detection.git`
+`cd gender-detection`
 
 - Install Required Libraries
 `pip install -r requirements.txt`
@@ -31,12 +31,12 @@ The dataset should be organized with two main folders: one for male images and a
 **1. Training the Model**
 
 To train the model, run the following command:
-`python train_gender_detection.py`
+`python train.py`
 
 **2. Real-Time Gender Detection**
 
 To start real-time gender detection using your webcam, run:
-`python real_time_gender_detection.py`
+`python detect_gender_webcam.py`
 
 **3. Model Performance**
 
