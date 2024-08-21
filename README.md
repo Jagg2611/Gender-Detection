@@ -26,6 +26,18 @@ The dataset should be organized with two main folders: one for male images and a
 - Male images should be located in: gender_dataset_face/man
 - Female images should be located in: gender_dataset_face/woman
 
-**Model Performance**
+**Usage**
+
+**1. Training the Model**
+
+To train the model, run the following command:
+`python train_gender_detection.py`
+
+**2. Real-Time Gender Detection**
+
+To start real-time gender detection using your webcam, run:
+`python real_time_gender_detection.py`
+
+**3. Model Performance**
 
 After training, the training and validation loss and accuracy metrics will be visualized in the generated plot (plot.png).
