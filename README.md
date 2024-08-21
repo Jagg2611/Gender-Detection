@@ -25,4 +25,5 @@ Male images should be located in: gender_dataset_face/man
 Female images should be located in: gender_dataset_face/woman
 
 **Model Performance**
+
 After training, the training and validation loss and accuracy metrics will be visualized in the generated plot (plot.png).
