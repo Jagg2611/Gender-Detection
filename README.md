@@ -12,14 +12,14 @@ This project implements a Convolutional Neural Network (CNN) model to accurately
 
 **Setup and Installation**
 
--Clone the Repository
+- Clone the Repository
 `git clone https://github.com/yourusername/gender-detection.git
 cd gender-detection`
 
--Install Required Libraries
+- Install Required Libraries
 `pip install -r requirements.txt`
 
--Download Dataset
+- Download Dataset
 The dataset should be organized with two main folders: one for male images and another for female images.
 Male images should be located in: gender_dataset_face/man
 Female images should be located in: gender_dataset_face/woman
