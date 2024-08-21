@@ -4,11 +4,11 @@ This project implements a Convolutional Neural Network (CNN) model to accurately
 
 **Project Overview**
 
-Dataset: https://drive.google.com/drive/folders/18n8xW9alNCqVkkLjEgoegDn2RM55KdTi?usp=drive_link
-Dataset Size: 2,907 images (1,528 male, 1,379 female)
-Model: Convolutional Neural Network (CNN)
-Framework: TensorFlow/Keras
-Training Epochs: 200
+-Dataset: https://drive.google.com/drive/folders/18n8xW9alNCqVkkLjEgoegDn2RM55KdTi?usp=drive_link
+-Dataset Size: 2,907 images (1,528 male, 1,379 female)
+-Model: Convolutional Neural Network (CNN)
+-Framework: TensorFlow/Keras
+-Training Epochs: 200
 
 **Setup and Installation**
 
