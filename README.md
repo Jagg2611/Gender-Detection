@@ -20,6 +20,7 @@ cd gender-detection`
 `pip install -r requirements.txt`
 
 - Download Dataset
+
 The dataset should be organized with two main folders: one for male images and another for female images.
 Male images should be located in: gender_dataset_face/man
 Female images should be located in: gender_dataset_face/woman
